@@ -21,7 +21,6 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
-### CODE:
 ```
 PAGE 1:
 <div style="width: 360px; height: 640px; position: relative; background: white">
